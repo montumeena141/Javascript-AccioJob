@@ -5,3 +5,4 @@ for (let i = 1; i <= numFactorial; i++) {
     factorial *= i;
 }
 console.log(`Factorial of ${numFactorial} is:`, factorial);
+
